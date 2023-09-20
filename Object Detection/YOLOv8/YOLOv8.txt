@@ -1,9 +1,0 @@
-YOLOv8 real-time:https://m.youtube.com/watch?v=4iRFGjNtzNo
-roboflow:https://app.roboflow.com/project-tyxpq
-
-
-
-Train
-yolov8n.pt yolov8s.pt yolov8m.pt yolov8l.pt yolov8x.pt   #適用方塊
-yolov8n-seg.pt yolov8s-seg.pt yolov8m-seg.pt yolov8l-seg.pt yolov8x-seg.pt   #適用多邊
-!yolo task=detect mode=train model=yolov8n.pt data=data.yaml epochs=250 imgsz=640 batch=8 cache=True
