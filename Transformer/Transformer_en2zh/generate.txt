@@ -1,0 +1,8 @@
+input:Over and over, he begged to be heard. In letters, phone calls, press conferences and countless interviews, he painted an apocalyptic picture of the summer ahead.
+generate:他的心情是，他要求聽，在信、電話、記者會、無數訪談中，畫出一幅夏日的笑容。
+
+input:But his pleas fell on deaf ears, and his premonitions would come true.
+generate:但他的聽力卻不斷地被聽聽，他的「警覺」就是真正的。
+
+input:Over the coming months, Mr Mullins watched on as 24 million hectares was torched - an area the size of the UK. Almost 2,500 homes burned down, and 480 people died in the flames and smoke.
+generate:一年多來，木耳先生在英國的大小地區，一座大小小的火燒，幾乎全毀了二千五百戶，火災四百八十多人死亡。
